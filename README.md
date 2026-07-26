@@ -247,21 +247,7 @@ npm install
 npm run dev
 ```
 
----
 
-# Environment Variables
-
-Backend `.env`
-
-```env
-DATABASE_URL=
-JWT_SECRET_KEY=
-GROQ_API_KEY=
-ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=30
-```
-
----
 
 # Future Improvements
 
@@ -288,24 +274,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 
 ---
 
-# Deployment
 
-Frontend
-
-- React
-- Vercel
-
-Backend
-
-- FastAPI
-- Render
-
-Database
-
-- PostgreSQL
-- pgvector
-
----
 
 # Author
 
