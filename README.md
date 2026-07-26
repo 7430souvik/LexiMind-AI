@@ -29,7 +29,7 @@ Built with FastAPI, React, PostgreSQL + pgvector, and Groq LLM.
 | Dashboard | Chat |
 |-----------|---
 
-!(frontend/src/assets/first.png)
+![Dashboard](frontend/src/assets/first.png)
 
 ---
 
