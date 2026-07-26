@@ -24,12 +24,12 @@ Built with FastAPI, React, PostgreSQL + pgvector, and Groq LLM.
 
 # Demo
 
-> Add screenshots or GIFs here after deployment.
 
 
 | Dashboard | Chat |
-|-----------|------|
-| ![](docs/dashboard.png) | ![](docs/chat.png) |
+|-----------|---
+
+!(frontend/src/assets/first.png)
 
 ---
 
