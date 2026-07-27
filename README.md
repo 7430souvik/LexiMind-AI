@@ -286,7 +286,7 @@ GitHub:
 https://github.com/7430souvik
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/souvik-chatterjee-b4779b183/
 
 ---
 
